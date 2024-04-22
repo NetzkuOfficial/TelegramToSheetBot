@@ -1,0 +1,4 @@
+pip3 install --force-reinstall -v "aiogram==2.23.1"
+pip3 install google-api-python-client
+pip3 install google-auth google-auth-oauthlib google-auth-httplib2
+pip3 install pytz==2024.1
